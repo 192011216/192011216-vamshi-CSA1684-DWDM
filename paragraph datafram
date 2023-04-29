@@ -1,0 +1,10 @@
+paragraph <- data.frame(
+age_child= c("5-6years","7-8years","9-10 years"),
+a = c(18,2,20), 
+b = c(22,28,10),
+c=c(20,40,40)
+)		
+print(paragraph) 
+cov(paragraph$a,paragraph$b)
+
+cor(paragraph1)
