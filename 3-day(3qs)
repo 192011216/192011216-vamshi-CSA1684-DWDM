@@ -1,0 +1,11 @@
+@relation items.symbolic
+@attribute items {bread,peanuts,milk,fruit,jam,soda,chips,steak,cheese,yogurt}
+@data
+bread,peanuts,milk,fruit,jam
+bread,jam,soda,chips,milk,fruit
+steak,jam,soda,chips,bread
+jam,soda,peanuts,milk,fruit
+jam,soda,chips,milk,bread
+fruit,soda,chips,milk
+fruit,soda,peanuts,milk
+fruit,peanuts,cheese,yogurt
