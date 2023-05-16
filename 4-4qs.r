@@ -1,0 +1,23 @@
+@relation items.symbolic
+
+@attribute items {SONY,BPL,LG,SAMSUNG,ONIDA}
+
+@data
+
+SONY,BPL,LG
+
+BPL,SAMSUNG
+
+BPL,ONIDA
+
+SONY,BPL,SAMSUNG
+
+SONY,ONIDA
+
+BPL,ONIDA
+
+SONY,ONIDA
+
+SONY,BPL,ONIDA,LG
+
+SONY,BPL,ONIDA
